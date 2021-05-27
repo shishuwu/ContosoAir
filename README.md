@@ -1,3 +1,4 @@
+
 [![Build Status](https://shishuwu.visualstudio.com/myAzurePipeline/_apis/build/status/shishuwu.ContosoAir?branchName=master)](https://shishuwu.visualstudio.com/myAzurePipeline/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
