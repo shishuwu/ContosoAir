@@ -1,7 +1,5 @@
 [![Build Status](https://shishuwu.visualstudio.com/myAzurePipeline/_apis/build/status/shishuwu.ContosoAir?branchName=master)](https://shishuwu.visualstudio.com/myAzurePipeline/_build/latest?definitionId=1&branchName=master)
 
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
